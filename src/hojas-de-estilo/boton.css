@@ -1,7 +1,7 @@
 .boton-contenedor{
   height: 83px;
 	display: flex;
-	flex: 1 1; /* se distribuye en base a los elementos que tiene */
+	flex: 1 1; 
 	justify-content: center;
 	align-items: center;
 	font-weight: bold;
@@ -12,7 +12,7 @@
 	border: 2px solid white;
 	margin: 4px;
 	cursor: pointer;
-	user-select: none; /* no permite seleccionar el boton con el mouse */
+	user-select: none; 
 }
 
 .boton-contenedor:hover{
