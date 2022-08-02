@@ -1,6 +1,6 @@
 .boton-clear{
   height: 80px;
-	font-size: 1.6em;/* unidad relativa 1.6veces del tamaño de su contenedor */
+	font-size: 1.6em;
 	display: flex;
 	flex: 1;
 	background-color: #a60246;
